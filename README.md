@@ -62,6 +62,4 @@ Styling: Modify styles.css to change the appearance of the website, such as the 
 Map Not Displaying: Ensure that your Google Maps API key is correctly inserted and that the key has the necessary permissions enabled (e.g., Maps JavaScript API).
 Traffic Layer Not Visible: Check your internet connection, as the traffic data is fetched in real-time from Google servers.
 Layout Issues: Ensure that the styles.css file is correctly linked in index.html and that there are no syntax errors in the CSS code.
-
-
 Google Maps API: Enables the embedding of an interactive map with traffic layer capabilities.
